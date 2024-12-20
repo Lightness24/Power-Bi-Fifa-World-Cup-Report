@@ -1,14 +1,20 @@
 # Power-Bi-Fifa-World-Cup-Report
 ![Screenshot 2024-12-16 225842](https://github.com/user-attachments/assets/180e4100-2209-4a74-af7f-fb8505598843)
 
-About Dataset
-Context
-The FIFA World Cup is a global football competition contested by the various football-playing nations of the world. It is contested every four years and is the most prestigious and important trophy in the sport of football.
+Introduction
 
-Content
-The World Cups dataset show all information about all the World Cups in the history, while the World Cup Matches dataset shows all the results from the matches contested as part of the cups.
+This project was designed to analyze and showcase the performance of teams during the early years of the FIFA World Cup, spanning from 1914 to 1930. The primary aim was to assess team performance, highlight historical trends, and provide a detailed comparison of placements during this iconic period in soccer history. The report offers insights into how different nations performed and allows for exploration of patterns that shaped the tournament's legacy.
 
-Acknowledgements
-This data is courtesy of the FIFA World Cup Archive website.
+The data for this project was sourced from Wikipedia’s “Teams Reaching the Top Four – Results – FIFA World Cup” table. It was imported and normalized using Microsoft Power Query to create a clean, structured dataset. Through this project, key objectives included:
 
-Inspiration
+Analyzing team performance over time to identify trends.
+Providing interactive visualizations to compare placement outcomes.
+Highlighting historical milestones in the World Cup’s early years.
+Insights were also divided based on the following questions:
+
+Which teams performed consistently well, and which teams struggled during this period?
+How did host countries influence tournament outcomes?
+Which continents or regions dominated the competition in the early years?
+What patterns can be observed in terms of team rankings and placement over time?
+Were there any unexpected or standout performances from underdog teams?
+The interactive Power BI dashboard created as part of this project allows users to dive deep into the history of the World Cup, exploring these and other questions in an engaging and dynamic way. This project demonstrates the power of data visualization in turning historical data into meaningful and actionable stories.
