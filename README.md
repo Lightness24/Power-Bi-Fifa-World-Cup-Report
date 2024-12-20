@@ -1,5 +1,5 @@
 # Power-Bi-Fifa-World-Cup-Report
-![Screenshot 2024-12-16 225842](https://github.com/user-attachments/assets/180e4100-2209-4a74-af7f-fb8505598843)
+![Screenshot 2024-12-20 164203](https://github.com/user-attachments/assets/de6e0fe0-4cbe-4672-b031-72117a4b686e)
 
 Introduction
 
