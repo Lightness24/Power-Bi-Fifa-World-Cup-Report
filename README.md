@@ -3,7 +3,7 @@
 
 Introduction
 
-This project was designed to analyze and showcase the performance of teams during the early years of the FIFA World Cup, spanning from 1914 to 1930. The primary aim was to assess team performance, highlight historical trends, and provide a detailed comparison of placements during this iconic period in soccer history. The report offers insights into how different nations performed and allows for exploration of patterns that shaped the tournament's legacy.
+This project was designed to analyze and showcase the performance of teams during the early years of the FIFA World Cup, spanning from 1940 to 2000. The primary aim was to assess team performance, highlight historical trends, and provide a detailed comparison of placements during this iconic period in soccer history. The report offers insights into how different nations performed and allows for exploration of patterns that shaped the tournament's legacy.
 
 The data for this project was sourced from Wikipedia’s “Teams Reaching the Top Four – Results – FIFA World Cup” table. It was imported and normalized using Microsoft Power Query to create a clean, structured dataset. Through this project, key objectives included:
 
